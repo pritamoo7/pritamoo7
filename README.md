@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pritamoo7
+- 👋 Hi, I’m @Pritam Beriha
 - 👀 I’m interested in IOTs
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on 
